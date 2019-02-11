@@ -19,8 +19,10 @@
  * Strings for component 'repository_cvod', language 'en', branch 'MOODLE_20_STABLE'
  *
  * @package   repository_cvod
- * @Author    Pramod Ubbala (AGS -> Infobase)
+ * @author    Pramod Ubbala (AGS -> Infobase)
  * @license   http://www.gnu.org/copyleft/gpl.html GNU GPL v3 or later
+ * @copyright 2019 Infobase
+ * @copyright based on work by Pramod Ubbala
  */
 
 $string['configplugin'] = 'CVOD configuration';
